@@ -8,7 +8,7 @@
 
 <h2>Questions</h2>
 
-There are available questions in the game.
+Below you can find available questions in the game.
 
 ```python
 questions = {
